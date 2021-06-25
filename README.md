@@ -10,13 +10,10 @@
 
 <p align='center'>
   
-  <a href="https://www.linkedin.com/in/facundopadilla/">
+  <a href="https://www.linkedin.com/in/nicolasnfernandez/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="https:/https://t.me/facundopadilla">
-    <img src="https://img.shields.io/badge/telegram-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white" />        
-  </a>&nbsp;&nbsp;
-  
+ 
 </p>
 
 <p align='center'>
@@ -30,10 +27,6 @@
   <img src="https://camo.githubusercontent.com/02d126cc5df5f167f9eefaa9dad21dcf9b92ad8c4eedcb9daa32f7c80c37b979/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d6565643731383f7374796c653d666c6174266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d666666666666" />
   <img src="https://camo.githubusercontent.com/b24c33b2586a74574dfb6c3b9e1811a34039189ee378cdf56babc6c0660e1a22/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d7953514c2d4632393131313f7374796c653d666c6174266c6f676f3d6d7973716c266c6f676f436f6c6f723d464646464646" />
 
-</p>
-
-<p align='center'>
-  Do you like my open source projects? <a href='https://stars.github.com/nominate/'>Nominate me to Github Stars ⭐</a>
 </p>
 
 <!-- <details align='center'>
