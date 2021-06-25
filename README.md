@@ -58,12 +58,4 @@
 📆 2021 - moment\
 📍 **IT Resources** - Buenos Aires, Argentina
 
-## Technical information
-
-<img align="right" src="https://img.shields.io/badge/Fedora-294172?logo=fedora&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/LinuxMint-5ED72A?logo=linuxmint&logoColor=white" />
-
-
 
